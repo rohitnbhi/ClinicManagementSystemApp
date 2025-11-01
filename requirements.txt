@@ -1,0 +1,10 @@
+email
+mysql
+re
+flask
+numpy
+twilio
+io
+csv
+openai
+os
