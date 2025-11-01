@@ -1,5 +1,3 @@
-wheel
-email
 mysql
 flask
 numpy
